@@ -25,4 +25,4 @@ export const STATS: StatItem[] = [
 ];
 
 export const AVATAR_URL =
-  "./amy-portfolio/avtar.png";
+  "/amy-portfolio/avtar.png";
